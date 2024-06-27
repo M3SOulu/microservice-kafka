@@ -16,9 +16,9 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>microservice-kafka-order</module>
-		<module>microservice-kafka-shipping</module>
-		<module>microservice-kafka-invoicing</module>
+		<module>microservice-kafka/microservice-kafka-order</module>
+		<module>microservice-kafka/microservice-kafka-shipping</module>
+		<module>microservice-kafka/microservice-kafka-invoicing</module>
 	</modules>
 
 	<properties>
